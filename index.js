@@ -1,3 +1,5 @@
+window.location.replace("https://sethkimberlin.dev");
+
 /* -----------------------------------------
   Have focus outline only for keyboard users 
  ---------------------------------------- */
